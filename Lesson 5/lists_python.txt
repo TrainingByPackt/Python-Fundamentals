@@ -1,0 +1,14 @@
+>>> wild = ["Lion", "Zebra", "Panther", "Antelope"]
+>>> wild
+>>> wild.append("Elephant")
+>>> wild
+>>> animals = []
+>>> animals.extend(wild)
+>>> animals
+>>> animals.insert(2, "Cheetah")
+>>> animals
+>>> animals.pop(1)
+>>> animals.insert(1, "Giraffe")
+>>> animals
+>>> animals.sort(key=None, reverse=False)
+>>> animals
