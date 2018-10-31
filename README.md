@@ -1,4 +1,4 @@
-# Python-Fundamentals
+# Python Fundamentals
 
 *Python Fundamentals* takes you from zero experience to a complete understanding of the key concepts, edge cases, and how to use Python for real-world application development. You'll move progressively from the basics to work with larger, more complex applications. After completing this course, you'll have the skills you need to dive into an existing application or start your own project.
 
