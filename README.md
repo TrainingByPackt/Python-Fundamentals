@@ -1,5 +1,4 @@
 # Python-Fundamentals
-Code bundle for Python Fundamentals, published by Packt.
 
 *Python Fundamentals* takes you from zero experience to a complete understanding of the key concepts, edge cases, and how to use Python for real-world application development. You'll move progressively from the basics to work with larger, more complex applications. After completing this course, you'll have the skills you need to dive into an existing application or start your own project.
 
@@ -22,6 +21,6 @@ For an optimal student experience, we recommend the following hardware configura
 You'll also need the following software installed in advance:
 * Operating system: Windows 7 or Windows 10
 * Browser: Google Chrome (latest version)
-* Python 3.6+ [download link](https://www.python.org/downloads/windows/)
+* [Python 3.6+](https://www.python.org/downloads/windows/)
 * A text editor
 
